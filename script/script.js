@@ -1,6 +1,6 @@
 let name = prompt("Whattt is your name??")
 const no = document.getElementById("no");
-const aud = new Audio('/resource/song.mp3')
+const aud = new Audio('https://cancerouscoder.github.io/new/resource/song.mp3')
 
 let margin = Math.floor(Math.random() * 200)
 
