@@ -22,11 +22,11 @@ body{
 }
 
 .gifA{
-    background: url('/resource/ask.gif');
+    background: url('https://cancerouscoder.github.io/new/resource/ask.gif');
 }
 
 .gifB{
-    background: url('/resource/approve.gif');
+    background: url('https://cancerouscoder.github.io/new/resource/approve.gif');
 }
 
 .btns, .btns div{
